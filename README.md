@@ -14,7 +14,7 @@
 - Linkedin: Paul Orife
 
 # Show Support
-- Give a start if you like this project
+- Give a ⭐️ if you like this project
 
 
 
