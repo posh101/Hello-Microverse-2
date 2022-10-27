@@ -1,4 +1,4 @@
-# Hello-Microverse-2# Adding a new header and style to my project
+# Adding a new header and style to my project
 
 # Built with
 - HTML
